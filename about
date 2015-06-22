@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+	<title>About</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">	
+	<link rel="stylesheet" href="css/custom.css">
+</head>
+<body>
+	<header>
+		<div class="logo">
+			<img src="images/logo.jpg">
+		</div>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-12">
+					<nav>
+						<ul>
+							<a href="index.html">Home</a>
+							<a href="about.html">About</a>
+							<a href="gallery.html">Gallery</a>
+							<a href="shop.html">Shop</a>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</header>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-4">
+				<img src="images/slide1.png" class="img-thumbnail">
+			</div>
+			<div class="col-md-8">
+				<div class="about">
+					<p>Starting life in the beautiful city of Bristol Truck Shop Clothing was born from a desire to create a brand that catered in equal stylish measurements to both men and women.</p> 
+
+					<p>My business as a whole has been heavily influenced by my travels to different parts of the world, taking design inspiration from Tokyo to the use of colour from Bali, which is where I found the paintings opposite, even from the Middle East where I spent a few years working, the bold statements they made with the clothes they wear more than made up for any restrictions that they might have. I wanted my designs to have an international feel in that you can’t pigeon hole them to a specific country so that they can be worn anywhere, any time by anyone. </p>
+
+					<p>All the products I sell are designed by me and made between myself and some great women in Sri Lanka who have helped me to bring my vision to life, as such all the styles are made in very small batches, generally under 20 pieces, so you can be sure that you are wearing something extremely unique. </p>
+
+					<p>The name was derived from the original plan to bring the product to the customer, a bridge between bricks and mortar and e-commerce - on the back of a truck. </p>
+
+					<p>Since that initial plan the idea has organically altered and grown through the creating process to be what it is today – that being a fully mobile working shop complete with changing room and beautiful interior that was created out of an old Rice horse trailer and lovingly restored by myself and (mostly) my Dad.</p>
+				</div>
+			</div>
+		</div>
+</div>
+	<footer>
+		<div class="container-fluid">
+			<div class="row">
+			<div class="col-md-12">
+				<nav class="social">
+				<ul>
+				<a href="https://www.facebook.com/pages/Truck-Shop-Clothing/1500474093514722?ref=hl">Facebook <img src="images/facebook.png" class="icon"></a>
+				<a href="https://instagram.com/truckshopclothing/">Instagram <img src="images/instagram.png" class="icon"></a>
+				<a href="https://twitter.com/truckshopcloth">Twitter <img src="images/Twitter.png" class="icon"></a>
+				<a href="https://www.linkedin.com/company/truck-shop-clothing">Linkedin <img src="images/linkedin.png" class="icon"></a>
+				<a href="http://truckshopclothing.tumblr.com">Tumbler <img src="images/Tumblr.png" class="icon"></a>
+				</ul>
+			</nav>
+		</div>
+		</div>
+	</div>
+	</footer>
+	<script src="js/jquery-2.1.3.min.js"></script>
+	<script src="js/main.js" type="text/javascript"></script>	
+</body>
+</html>
